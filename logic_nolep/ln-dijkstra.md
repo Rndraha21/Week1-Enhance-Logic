@@ -7,7 +7,7 @@
 Anda adalah seorang perencana perjalanan yang sedang merancang rute terbaik untuk wisatawan yang ingin mengunjungi beberapa kota besar di Indonesia. Anda memiliki informasi tentang jarak langsung antar kota (dalam kilometer) sebagai berikut:
 
 - Jakarta (JKT)
-- Surabaya (SBY)
+- Surabaya (SBY) 
 - Bandung (BDG)
 - Yogyakarta (YOG)
 - Semarang (SMG)
